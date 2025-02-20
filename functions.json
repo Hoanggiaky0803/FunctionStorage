@@ -1,0 +1,10 @@
+{
+    "approved_functions": [
+        {
+            "name": "SampleFunction",
+            "note": "Ghi chú về hàm",
+            "example": "printf(\"Hello, world!\");"
+        }
+    ],
+    "pending_functions": []
+}
